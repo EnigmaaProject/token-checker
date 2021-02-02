@@ -1,0 +1,30 @@
+{
+  "name": "Σnigma vérificateur de token",
+  "version": "1.0.0",
+  "description": "Discord vérificateur de token pour vérifier les tokens Discord !",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.0"
+  },
+  "engines": {
+    "node": "8.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [
+    "discord spam",
+    "discord tokens",
+    "discord checker",
+    "discord hack"
+  ],
+  "author": "Σnigma",
+  "contributors": [],
+  "license": "MIT"
+}
